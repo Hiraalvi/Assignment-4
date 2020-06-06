@@ -1,0 +1,38 @@
+/* navbar */
+.nav-item{
+    margin: 13px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/* main home page */
+.one{
+ margin-top: 90px; 
+}
+/* heading */
+.two{
+  
+}
+/* text of whole website */
+.three{
+font-size: 25px;
+margin-top: 20px;
+font-family: 'Cairo', sans-serif;
+}
+/* last box */
+.four{
+  border-radius: 5px 400px 4px 5px;
+}
+
+/* heading of about page */
+.alpha{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.beta{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
